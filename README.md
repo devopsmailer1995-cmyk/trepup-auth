@@ -44,3 +44,4 @@ See `.github/workflows/deploy-backend.yml` for the complete CI/CD pipeline.
 
 https://github.com/devopsmailer1995-cmyk/trepup-auth
 # Trigger deployment
+# Test end-to-end deployment
