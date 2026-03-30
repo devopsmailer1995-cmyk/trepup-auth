@@ -54,9 +54,9 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, () => {
-  console.log(\`✅ Trepup Auth Service listening on port \${port}\`);
-  console.log(\`🔐 JWT Authentication: Enabled (demo)\`);
-  console.log(\`🗄️  Database: Connected (demo)\`);
+  console.log('✅ Trepup Auth Service listening on port ' + port);
+  console.log('🔐 JWT Authentication: Enabled (demo)');
+  console.log('🗄️  Database: Connected (demo)');
 });
 EOF
 
