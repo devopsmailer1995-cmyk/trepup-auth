@@ -1,0 +1,13 @@
+{
+  "name": "trepup-auth",
+  "version": "1.0.0",
+  "description": "Authentication Service - Demo for ECS Fargate Deployment",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "echo 'Build complete (demo)'"
+  },
+  "keywords": ["auth", "jwt", "express", "ecs", "fargate"],
+  "author": "Trepup Team",
+  "license": "MIT"
+}
